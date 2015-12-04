@@ -142,7 +142,7 @@ $(document).ready(function(){
 		}
 
 		function showGameOver() {
-			console.log("game over");
+			// console.log("game over");
 
 			active = false;
 			ctx.clearRect( 0, 0, w, h);
