@@ -1,0 +1,30 @@
+body {
+	overflow: auto;
+	background-image: url("small_steps copy.png")
+}
+
+.wrapper {
+	position: relative;
+	margin: 0 auto;
+	width: 472px;
+	height: 690px;
+	background-image: url("http://vignette1.wikia.nocookie.net/nintendo/images/6/6f/Game_Boy_(Grey_Model).png/revision/latest?cb=20121110153849&path-prefix=en");
+	background-size: cover;
+	background-position: center center;
+}
+
+
+
+
+canvas {
+	margin: 0;
+	position: relative;
+    top: 62px;
+    left: 114px;
+
+}
+
+@font-face {
+	font-family: "arcade";
+	src: url('ARCADECLASSIC copy.TTF');
+}
